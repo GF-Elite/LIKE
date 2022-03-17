@@ -19,7 +19,7 @@
  $python run.py
  ```
 
-
-
+### DONATE FOR ME
+<a href="https://saweria.co/irpansopian">CLICK HERE !</a>
 
 
